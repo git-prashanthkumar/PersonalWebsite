@@ -14,10 +14,7 @@ h1{
     font-style: italic;
     font-size:30px ;
 }
-.profile-img {
-    height: 100px;
-    border-radius: 50%;
-  }
+
   .bi {
     vertical-align: -.125em;
     fill: currentColor;
